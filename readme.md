@@ -3,18 +3,13 @@
 > [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a chance to level up your coding skills and get small goodies in reward.
 > This page lists links to awesome background information and links to awesome contribution possibilities.
 
-[![Hacktoberfest 2019 logo](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg)](https://benbarth.github.io/hacktoberfest-swag/)
+[![Hacktoberfest 2020 logo](https://hacktoberfest-swag.com/assets/hacktoberfest-logo.png)](https://hacktoberfest.digitalocean.com/)
 
 ## Official website for registration and tips on how to get started
 
 - [Hacktoberfest Official Website](https://hacktoberfest.digitalocean.com/)
-- [Hacktoberfest Tutorial](https://youtu.be/0mjJS1Y8wrI) - Introduction to Hacktoberfest
-- [Hacktoberfest Swag List](https://benbarth.github.io/hacktoberfest-swag/) - List of all goodies given away by companies
-
-## Blogs entries
-
-- [Digitial Ocean's Blog Entry for Hacktoberfest 2019](https://blog.digitalocean.com/hacktoberfest-is-back-for-year-six/) - provides background information and explains **Participating for the right reasons**
-- [Hacktoberfest 2019 — Time to Start your Open-Source Journey!](https://medium.com/@swap/hacktoberfest-2019-time-to-start-your-open-source-journey-8227e10fac33) - Article on the basics of Hacktoberfest
+- [Hacktoberfest Tutorial](https://www.youtube.com/watch?v=mll-akn8Gqs) - Introduction to Hacktoberfest
+- [Hacktoberfest Swag List](https://hacktoberfestswaglist.com/) - List of all goodies given away by companies
 
 ## Finding issues
 
@@ -24,6 +19,7 @@ Here, you find possibilities to ease the search.
 ### Search engines
 
 - [Issue Finder](http://hacktoberfest-finder.netlify.com) - finds issues made especially for hacktoberfest, also allows filtering by language
+- [Hacktoberfest Finder](https://hacktoberfest-finder.netlify.app/) - easy way to find issues to work on during hacktoberfest, including the ability to filter by language and least comments.
 - [Up For Grabs](https://up-for-grabs.net/#/) - find beginner-friendly projects and issues
 
 ### Using labels
@@ -35,9 +31,12 @@ With these labels, one finds issues to level up his skills in hacktoberfest.
 - [for-new-contributors](https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue)
 - [good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen+type%3Aissue)
 
-## Projects friendly to Hacktoberfest 1st time contributors
+## Other awesome lists
 
-You can start browsing [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) to find projects which are beginner-friendly.
+- [Awesome Hacktoberfest 2020](https://github.com/OtacilioN/awesome-hacktoberfest-2020) - lists awesome projects categorized for beginners and advanced coders.
+- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - lists projects which are beginner-friendly.
+
+## Projects friendly to Hacktoberfest 1st time contributors
 
 In case you are an experienced developer, projects have prepared special issues for hacktoberfest.
 Below you will find awesome projects that have been put notable efforts into Hacktoberfest.
@@ -69,6 +68,7 @@ They also try to be very welcoming for 1st-time contributors.
 ([all JavaScript projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3AJava&type=Issues&ref=advsearch&l=JavaScript))
 
 - [jest-extended](https://github.com/mattphillips/jest-extended)
+- [letra-extension](https://github.com/jayehernandez/letra-extension) - Passively learn a new language every time you open a new tab
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone)
 
 ### Java
@@ -99,6 +99,7 @@ They also try to be very welcoming for 1st-time contributors.
 
 ([all React projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ADart&type=Issues&ref=advsearch&l=React&l=))
 
+- [Gatsby](https://github.com/gatsbyjs/gatsby) - Gatsby is a free and open source framework for building blazing fast static websites.
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) - check your Hacktoberfest progress. [[Source](https://github.com/jenkoian/hacktoberfest-checker)]
 
 ### React Native
@@ -112,6 +113,8 @@ They also try to be very welcoming for 1st-time contributors.
 ### TypeScript
 
 ([all TypeScript projects with hacktoberfest issues](https://github.com/search?utf8=%E2%9C%93&q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+language%3ATypescript&type=Issues&ref=advsearch&l=Typescript))
+
+- [LitmusChaos](https://github.com/litmuschaos/litmus/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest)
 
 ## Projects made for Hacktoberfest
 
@@ -129,7 +132,10 @@ Here you find projects that were made especially for hacktoberfest.
 - [Coding Blocks](https://blog.codingblocks.com/2019/cb-hacktoberfest-2019/)
 - [Devfolio](https://devfolio.co/blog/hacktoberfest-2019-devfolio/)
 - [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org)
+- [Grafana Labs](https://github.com/grafana/grafana)
 - [Hasura](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/)
+- [JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/) - JetBrains offers a wide range of developer IDEs. For Hacktoberfest, it makes them available for free for open source contributors independently of the contributor being a permanent contributor to an open source project (which is covered by their Free Licenses Program).
+- [MayaData](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata)
 - [Sendgrid](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
 - [Source{d}](https://go.sourced.tech/hacktoberfest)
 
@@ -142,6 +148,7 @@ Here you find projects that were made especially for hacktoberfest.
 
 - [AwesomeSearch](https://awesomelists.top/) - search engine for [the awesome list](https://github.com/sindresorhus/awesome/blob/master/readme.md) providing useful programming resources.
 - [Build a Hacktoberfest Checker Clone](https://pybit.es/codechallenge38.html)
+- [First Timers Only](https://www.firsttimersonly.com/) - page highlighting awesome facts on first-time contributions
 - [Reading List](https://github.com/mattjegan/reading-list)
 
 ## Contribute
